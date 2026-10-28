@@ -1,0 +1,5 @@
+{
+  "name": "question-timer",
+  "owner": { "name": "Louis Evans" },
+  "plugins": [{ "name": "question-timer", "source": "./" }]
+}

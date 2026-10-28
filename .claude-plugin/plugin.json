@@ -1,0 +1,1 @@
+{ "name": "question-timer", "version": "0.1.0", "description": "Per-question timer above the prompt bar, with the TMUA 3:45 target", "types": "./types/index.d.ts" }
